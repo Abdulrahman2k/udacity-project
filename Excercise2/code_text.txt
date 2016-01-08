@@ -1,0 +1,19 @@
+      if   passenger['Sex']=='female' and  passenger['Pclass'] not in ['2','3']  and passenger['Fare'] >7 :
+        predictions[passenger_id] = 1
+      #elif   passenger['Sex']=='female' and  passenger['Pclass'] =='2' :#and (passenger['SibSp']==0 or  passenger['Parch'] ==0)  : #and passenger['Fare'] >7.22 :
+      #  predictions[passenger_id] = 1
+      #elif   passenger['Sex']=='female' and  passenger['Pclass'] =='3' and (passenger['SibSp']<=1 or  passenger['Parch'] <=1)  and passenger['Fare'] >7.22 :
+      #  predictions[passenger_id] = 1
+      elif  (passenger['Sex']=='male' and passenger['Pclass']=='1'  ) :
+        predictions[passenger_id] = 1
+
+        # your code here
+        #
+      elif  passenger['Age']<7 :#and passenger['Parch']  >0 : #and passenger['Sex']=='male' :
+        predictions[passenger_id] = 1
+  #    elif  passenger['Embarked']  not in ['S','C'] :
+  #      predictions[passenger_id] = 0 
+  #    elif  (passenger['Sex']=='female') and (passenger['SibSp']  >0 or  passenger['Parch']  >0 or passenger['Age']<9)  :
+  #      predictions[passenger_id] = 1 
+      else:
+        predictions[passenger_id] = 0
