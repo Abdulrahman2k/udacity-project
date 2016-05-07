@@ -1,0 +1,50 @@
+ <node id="27644533" lat="26.5355411" lon="53.9992568" version="7" timestamp="2015-01-23T05:48:33Z" changeset="28342370" uid="2486593" user="mkh693">
+                <tag k="name" v="کیش"/>
+                <tag k="place" v="island"/>
+                <tag k="name:en" v="Kish"/>
+                <tag k="is_in:state" v="Hormozgan"/>
+                <tag k="is_in:country" v="Iran"/>
+                <tag k="is_in:continent" v="Asia"/>
+        </node>
+
+	        <node id="27644533" lat="26.5355411" lon="53.9992568" version="7" timestamp="2015-01-23T05:48:33Z" changeset="28342370" uid="2486593" user="mkh693">
+                <tag k="name" v="کیش"/>
+                <tag k="place" v="island"/>
+                <tag k="name:en" v="Kish"/>
+                <tag k="is_in:state" v="Hormozgan"/>
+                <tag k="is_in:country" v="Iran"/>
+                <tag k="is_in:continent" v="Asia"/>
+        </node>
+        <node id="27653722" lat="26.291761" lon="54.5144962" version="4" timestamp="2015-03-30T19:03:37Z" changeset="29858794" uid="2517557" user="mmanavii">
+                <tag k="name" v="فارور"/>
+                <tag k="place" v="island"/>
+        </node>
+	
+
+        <node id="31248510" lat="25.2683521" lon="55.2961962" version="40" timestamp="2015-12-01T00:08:20Z" changeset="35677031" uid="85218" user="Aleks-Berlin">
+                <tag k="name" v="Dubai"/>
+                <tag k="rank" v="0"/>
+                <tag k="place" v="city"/>
+                <tag k="name:ar" v="دبي"/>
+                <tag k="name:de" v="Dubai"/>
+                <tag k="name:en" v="Dubai"/>
+                <tag k="name:es" v="Dubái"/>
+                <tag k="name:fr" v="Dubaï"/>
+                <tag k="name:hi" v="दबई"/>
+                <tag k="name:hu" v="Dubaj"/>
+                <tag k="name:ja" v="ドバイ"/>
+                <tag k="name:kn" v="ದುಬೈ"/>
+                <tag k="name:ku" v="Dubey"/>
+                <tag k="name:ml" v="ദബായ"/>
+                <tag k="name:ru" v="Дубай"/>
+                <tag k="name:sr" v="Дубаи"/>
+                <tag k="name:zh" v="迪拜"/>
+                <tag k="int_name" v="Dubai"/>
+                <tag k="old_name" v="Dubayy"/>
+                <tag k="wikidata" v="Q612"/>
+                <tag k="wikipedia" v="en:Dubai"/>
+                <tag k="population" v="1984000"/>
+                <tag k="is_in:continent" v="Asia"/>
+                <tag k="source:population" v="24/7 - 23 October 2011"/>
+                <tag k="is_in:country_code" v="AE"/>
+        </node>

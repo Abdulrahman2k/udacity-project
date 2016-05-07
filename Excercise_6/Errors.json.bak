@@ -1,0 +1,21 @@
+ <node id="27644533" lat="26.5355411" lon="53.9992568" version="7" timestamp="2015-01-23T05:48:33Z" changeset="28342370" uid="2486593" user="mkh693">
+                <tag k="name" v="کیش"/>
+                <tag k="place" v="island"/>
+                <tag k="name:en" v="Kish"/>
+                <tag k="is_in:state" v="Hormozgan"/>
+                <tag k="is_in:country" v="Iran"/>
+                <tag k="is_in:continent" v="Asia"/>
+        </node>
+
+	        <node id="27644533" lat="26.5355411" lon="53.9992568" version="7" timestamp="2015-01-23T05:48:33Z" changeset="28342370" uid="2486593" user="mkh693">
+                <tag k="name" v="کیش"/>
+                <tag k="place" v="island"/>
+                <tag k="name:en" v="Kish"/>
+                <tag k="is_in:state" v="Hormozgan"/>
+                <tag k="is_in:country" v="Iran"/>
+                <tag k="is_in:continent" v="Asia"/>
+        </node>
+        <node id="27653722" lat="26.291761" lon="54.5144962" version="4" timestamp="2015-03-30T19:03:37Z" changeset="29858794" uid="2517557" user="mmanavii">
+                <tag k="name" v="فارور"/>
+                <tag k="place" v="island"/>
+        </node>
