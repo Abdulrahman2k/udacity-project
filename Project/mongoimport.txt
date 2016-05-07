@@ -1,0 +1,8 @@
+mongo
+show dbs
+local  0.044GB
+use local
+switched to db local
+db.dubai.find().count()
+655515
+mongoimport -d local -c dubai --file dubai_abu-dhabi.osm.json
