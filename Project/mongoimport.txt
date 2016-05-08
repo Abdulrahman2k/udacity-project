@@ -6,3 +6,6 @@ switched to db local
 db.dubai.find().count()
 655515
 mongoimport -d local -c dubai --file dubai_abu-dhabi.osm.json
+
+
+mongo --quiet local --eval 'printjson(db.dubai.distinct("amenity"))' > output.json
